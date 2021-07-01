@@ -1,0 +1,38 @@
+[
+   {
+      "id":111,
+      "data":"01/07/2021",
+      "paciente":{
+         "id":1,
+         "nome":"ABRAÃO",
+         "documento":"111.111.111-11"
+      },
+      "medico":{
+         "id":11,
+         "nome":"MARIA",
+         "documento":"111.111.111-11",
+         "crm":"CRM 11"
+      },
+      "orgao":{
+         "id":111,
+         "nome":"CORAÇÃO",
+         "observacao":""
+      }
+   },
+  {
+      "id":222,
+      "data":"02/07/2021",
+      "paciente":{
+         "id":2,
+         "nome":"BRUNO",
+         "documento":"222.222.222-22"
+      },
+      "medico":{
+         "id":22,
+         "nome":"NARA",
+         "documento":"222.222.222-22",
+         "crm":"CRM 22"
+      },
+      "orgao":{"id":222,"nome":"FIGADO","observacao":""}
+   }
+]
